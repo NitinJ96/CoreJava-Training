@@ -1,4 +1,4 @@
-package com.oct16th2020;
+package com.nov16th2020;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
